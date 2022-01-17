@@ -11,19 +11,25 @@ and also remove any book from the collection. In addition, he/she will be able t
 - plain Javascript
 
 ## How to use and run this project
-
 >To get a local copy up and running follow these simple example steps.
 
 -Clone this repository with
 
-git clone https://github.com/BertrandConxy/Awesome-books.git using your terminal or command line.
+<code> git clone https://github.com/BertrandConxy/Refactoring-Awesome-books.git </code>
+using your terminal or command line.
 
 -Change to the project directory by entering :
 
-cd The-Portfolio in the terminal.
+<code>cd Refactoring-Awesome-books</code>, in the terminal.
 
--run code . to open it in vscode
-
+-run code to open it in vscode.
+However, there are some project requisites required for this project to run properly 
+### Prerequisites
+- This project makes use of dependency library called "luxon"
+- To install it, follow this:
+- Locate to the directory of the project
+- In the terminal, <code>npm init -y</code> to initialise the package manager
+- Again, in the terminal, <code> npm install --save luxon </code> to install the library
 
 
 ## Project Status
@@ -36,7 +42,7 @@ This project has been  finished and deployed.
 
 
 ## Live Demo link
- https://bertrandconxy.github.io/Awesome-books/
+ https://bertrandconxy.github.io/Refactoring-Awesome-books/
 
 ## Issues
 
@@ -44,7 +50,7 @@ Up to now, there are no issues with it.
 
 Here is the link to the Issues tab:
 
-https://github.com/BertrandConxy/Awesome-books/issues
+https://github.com/BertrandConxy/Refactoring-Awesome-books/issues
 
 ## Authors
 
@@ -54,19 +60,10 @@ https://github.com/BertrandConxy/Awesome-books/issues
 - Twitter: [@Bconxy](https://twitter.com/Bconxy)
 - LinkedIn: [Bertrand Mutangana Ishimwe](https://www.linkedin.com/in/bertrand-mutangana-024905220/)
 
-
-👤 **Butler Shimaluwani**
-
-- GitHub: [@ButlerMuwo](https://github.com/butlermuwo)
-- Twitter: [@ButlerMuwo](https://twitter.com/ButlerMuwo)
-- LinkedIn: [@ButlerMuwo](https://www.linkedin.com/in/butler-shimaluwani-41a680159/)
-
-
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Thanks to everyone who helped us.
+Thanks to everyone who helped me.
