@@ -3,8 +3,7 @@ import LocalStorageClass from './modules/local-storage.js';
 import CreateBookElements from './modules/create-book-element.js';
 import DisplayBookList from './modules/display-bookList.js';
 import DisplaySection from './modules/display-one-section.js';
-import { DateTime } from './node_modules/luxon/build/es6/luxon.js';
-
+import { DateTime } from './modules/luxon/build/es6/luxon.js';
 
 // Dispay book list on home page
 document.addEventListener('DOMContentLoaded', DisplayBookList.displayBooks);
